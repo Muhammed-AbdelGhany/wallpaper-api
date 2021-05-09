@@ -1,6 +1,6 @@
 # wallpaper_app
 
-A new Flutter project.
+A flutter app for exploring and downloading wallpapers images.
 
 ## Getting Started
 
